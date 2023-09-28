@@ -44,7 +44,7 @@ const questions = [
     type: "input",
     name: "contributing",
     message:
-      "If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so.",
+      "If you created an application or package and would like other developers to contribute it? Include guidelines for how to do so.",
   },
   {
     type: "input",

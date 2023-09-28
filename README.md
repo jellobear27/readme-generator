@@ -1,40 +1,46 @@
-# bla
-  by kjgejkrg
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Readme generator
+  by Janell Smith
+  
 
 ## Description
 
-bla
+This app generates a professional readme. My motivation was to create this app so that I can use it on future projects to save time.
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-https://opensource.org/licenses/MIT
+
 
 ## Installation
 
-bla
+copy code: https://github.com/jellobear27/readme-generator, git clone, navigate to the project directory
 
 ## Usage
 
-bla
+node.js, inquirer
 
 ## Contributing
 
-afkjaewjkf
+N/A
 
 ## Contact-Me
-* Name - kjgejkrg
-* Email - ligje
-* Github - [hjghajkgn](https:github.com/hjghajkgn/)
+* Name - Janell Smith
+* Email - jdstar17@gmail.com
+* Github - [jellobear27](https:github.com/jellobear27/)
 
 ## Testing
+
+## Video walk-through
+
+https://drive.google.com/file/d/1CuaaQOr8_GozDCaT8hcdsUgckcuL7qvA/view?usp=sharing
+
 ```
 undefined
 
 
 ## Credits
 
-ekgr
+N/A
+
 
